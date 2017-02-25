@@ -10,4 +10,4 @@ fi
 # ==> sort alphabetically
 # ==> count the number of characters
 # ==> save the count to $2
-head -5 $1 | sort | wc -c > $2
+head -5 "$1" | sort | wc -c > "$2"
