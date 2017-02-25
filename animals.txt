@@ -1,0 +1,14 @@
+bear
+lion
+cat
+tiger
+dog
+javelina
+coyote
+mountain lion
+wildcat
+roadrunner
+herron
+hawk
+eagle
+dog
