@@ -1,3 +1,8 @@
+if [ "$1" == "-h" ]; then
+	echo "Usage: sh $0 input_file output_file"
+	exit
+fi	
+
 # This is a comment! My first script in bash 
 # $1 is input, $2 is output to save to
 # Performs: 
